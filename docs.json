@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by going to Settings and selecting Security."
+  },
+  {
+    "title": "Change Email",
+    "content": "Users can update their email address from the account settings page."
+  },
+  {
+    "title": "Delete Account",
+    "content": "To delete an account, navigate to Settings and choose Delete Account."
+  },
+  {
+  "title": "Two Factor Authentication",
+  "content": "Users can enable two factor authentication by going to Settings > Security and turning on Two Factor Authentication."
+  },
+  {
+    "title": "Contact Support",
+    "content": "Users can contact support by submitting a request through the help center."
+  }
+]
